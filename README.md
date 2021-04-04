@@ -8,3 +8,7 @@ My Python journey
 # Directory python101
 from pluralsight course practical python for beginners
 ..
+# Directory ML101
+from W3school  
+..
+
