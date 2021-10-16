@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Check the versions of libraries
  
 # Python version
