@@ -41,6 +41,11 @@ copy of https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv as 
 See also wiki: https://en.wikipedia.org/wiki/Iris_flower_data_set  
 Copy of script
 
+```
+curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/loadDataSet.py > loaDataSet.py
+python3 loadDataSet.py
+```
+
 
 ## Content
 A machine learning project may not be linear, but it has a number of well known steps:  
