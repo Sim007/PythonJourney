@@ -49,7 +49,7 @@ python3 loadDataSet.py
 
 ### Summarize Dataset
 ```
-curl https://github.com/Sim007/PythonJourney/blob/main/my1ML/summarizeData.py > summarizeData.py
+curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/summarizeData.py > summarizeData.py
 python3 summarizeData.py
 ```
 
