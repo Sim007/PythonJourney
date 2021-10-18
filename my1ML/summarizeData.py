@@ -13,28 +13,28 @@ names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
 dataset = read_csv(url, names=names)
 
 # shape
-print("*** Shape ***)
+print("*** Shape ***")
 print()
 print(dataset.shape)
 print()
 print()
 
 # head
-print("*** Head ***)
+print("*** Head ***")
 print()
 print(dataset.head(20))
 print()
 print()
 
 # descriptions
-print("*** Discription ***)
+print("*** Discription ***")
 print()
 print(dataset.describe())
 print()
 print()
 
 # class distribution
-print("*** Class distribution ***)
+print("*** Class distribution ***")
 print()
 print(dataset.groupby('class').size())
 print()
