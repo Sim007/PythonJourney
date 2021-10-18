@@ -12,3 +12,6 @@ from pluralsight course practical python for beginners
 from W3school  
 ..
 
+## Directory my1ML
+from blogpost: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/  
+- Bake a container
