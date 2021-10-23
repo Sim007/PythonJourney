@@ -53,6 +53,11 @@ curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/summarize
 python3 summarizeData.py
 ```
 
+### Data Visulalization
+```
+curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/dataVisualization.py > dataVisualization.py
+python3 dataVisualization.py
+```
 
 ## Content
 A machine learning project may not be linear, but it has a number of well known steps:  
