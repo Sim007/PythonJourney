@@ -100,6 +100,13 @@ python3 dataVisualization.py
 Script will show 3 graph. Exit to see to following graph.
 
 ## Evaluate some algorithms
+Steps in script:
+
+- Separate out a validation dataset.
+- Set-up the test harness to use 10-fold cross validation.
+- Build multiple different models to predict species from flower measurements
+- Select the best model.
+
 ```
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/evalSomeAlgorithms.py > evalSomeAlgorithms.py
 python3 evalSomeAlgorithms.py
