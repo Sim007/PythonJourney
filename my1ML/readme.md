@@ -1,8 +1,36 @@
-## Resource
-Fork from: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
+# Introduction
+In this folder of repo, my journey learning ML and my thoughts of using containers.  
 
-## My Goal
-Bake a container for this example 
+For this I have found a nice article on the internet which I will use to learn ML and use containers,
+
+## Resource
+I use the following excellent resource:  
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
+Many thanks for sharing!
+
+## Content
+A machine learning project may not be linear, but it has a number of well known steps:  
+
+- Define Problem.
+- Prepare Data.
+- Evaluate Algorithms.
+- Improve Results.
+- Present Results.
+
+## Userstory
+High Level: Bake a container for this examples of the article - so you focus on learning ML and not having trouble of installing and not having the correct versions. 
+
+As student I want to have a container environment that I can use for production so I can share my work to other people
+
+### Way of thinking
+design decision for this user story:
+- no jupyter notebook because my opioun is that the jupyter notebook is not a production thingie
+- source in GitHub
+- edit in Visual Studio on laptop
+- 1 container run on Docker
+  - Dockerfile
+  - Docker container image on DockerHub
+  - Semantic versioning: Major.Minor.Patch-YYYYMMDDHHMM
 
 - Python 3.x
 - Libs:  
@@ -61,13 +89,6 @@ curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/dataVisua
 python3 dataVisualization.py
 ```
 
-## Content
-A machine learning project may not be linear, but it has a number of well known steps:  
 
-- Define Problem.
-- Prepare Data.
-- Evaluate Algorithms.
-- Improve Results.
-- Present Results.
 
 
