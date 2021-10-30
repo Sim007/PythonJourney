@@ -101,8 +101,8 @@ Script will show 3 graph. Exit to see to following graph.
 
 ## Evaluate some algorithms
 ```
-curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/evalSomeAlgoritms.py > evalSomeAlgoritms.py
-python3 evalSomeAlgoritms.py
+curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/evalSomeAlgorithms.py > evalSomeAlgorithms.py
+python3 evalSomeAlgorithms.py
 ```
 ---
 
