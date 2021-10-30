@@ -49,7 +49,7 @@ The examples needs the following dependecies:
 
 ### Installation
 - python 3.6 installed
-- made dir python
+- made dir my1ML
 
 All completed scripts I copied to this repo, tweaked them for my purpose, so I can use them.  
 So I can copy the script on my machine and run the script.
