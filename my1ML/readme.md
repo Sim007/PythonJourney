@@ -81,9 +81,8 @@ sklearn: 1.0
 - copy of https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv as iris.csv in repo  
 - See also wiki: https://en.wikipedia.org/wiki/Iris_flower_data_set   
 
-
 ```
-curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/loadDataSet.py > loaDataSet.py
+curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/loadDataSet.py > loadDataSet.py
 python3 loadDataSet.py
 ```
 
