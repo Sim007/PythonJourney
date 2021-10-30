@@ -8,7 +8,7 @@ I use the following excellent resource:
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
 Many thanks for sharing!
 
-## Content
+## Workflow according article
 A machine learning project may not be linear, but it has a number of well known steps:  
 
 - Define Problem.
@@ -32,6 +32,13 @@ design decision for this user story:
   - Docker container image on DockerHub
   - Semantic versioning: Major.Minor.Patch-YYYYMMDDHHMM
 
+## Run the exmples on a laptop
+
+First step run the examples of the article.   
+I do this on with Linux box on chromebook  
+
+### Dependencies
+The examples needs the following dependecies:
 - Python 3.x
 - Libs:  
   - scipy
@@ -40,10 +47,13 @@ design decision for this user story:
   - pandas
   - sklearn  
 
-Test first with Linux box on chromebook  
-python 3.6 installed
-dir python aangemaakt
-script gekopieerd in deze repo
+### Installation
+- python 3.6 installed
+- made dir python
+
+All completed scripts I copied to this repo - so I can use them.  
+So I can copy the script on my machine and run the script.
+
 ```
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/checkenv.py > checkenv.py  
 python3 checkenv.py
@@ -88,6 +98,7 @@ python3 summarizeData.py
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/dataVisualization.py > dataVisualization.py
 python3 dataVisualization.py
 ```
+
 
 
 
