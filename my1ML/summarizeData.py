@@ -20,7 +20,7 @@ print()
 print()
 
 # head
-print("*** Head ***")
+print("*** Head 20 ***")
 print()
 print(dataset.head(20))
 print()
