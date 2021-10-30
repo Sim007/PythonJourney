@@ -58,11 +58,11 @@ So I can copy the script on my machine and run the script.
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/checkenv.py > checkenv.py  
 python3 checkenv.py
 ```
-sklearn niet aanwezig
+sklearn not available
 ```
 pip3 install -U scikit-learn
 ```
-Veroudere versie van pip3
+Old version of pip3
 ```
 python3 -m pip install --upgrade pip
 ```
