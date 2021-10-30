@@ -98,6 +98,8 @@ python3 summarizeData.py
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/dataVisualization.py > dataVisualization.py
 python3 dataVisualization.py
 ```
+Script will show 3 graph. Exit to see to following graph.
+
 
 
 
