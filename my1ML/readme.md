@@ -1,7 +1,14 @@
 # Introduction
 In this folder of repo, my journey learning ML and my thoughts of using containers.  
 
-For this I have found a nice article on the internet which I will use to learn ML and use containers,
+For this I have found a nice article on the internet which I will use to learn ML and use containers.
+
+## Why containers?
+Cause:
+- I want to reproduce my learning without installing
+- Want to share the result with you
+- I like to expirement with ML in containers
+- I believe solution in containers is my to go  
 
 ## Resource
 I use the following excellent resource:  
