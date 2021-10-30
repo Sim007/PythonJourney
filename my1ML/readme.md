@@ -51,7 +51,7 @@ The examples needs the following dependecies:
 - python 3.6 installed
 - made dir python
 
-All completed scripts I copied to this repo - so I can use them.  
+All completed scripts I copied to this repo, tweaked them for my purpose, so I can use them.  
 So I can copy the script on my machine and run the script.
 
 ```
@@ -78,9 +78,9 @@ sklearn: 1.0
 ## Scripts
 
 ### Load DataSet
-copy of https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv as iris.csv in repo
-See also wiki: https://en.wikipedia.org/wiki/Iris_flower_data_set  
-Copy of script
+- copy of https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv as iris.csv in repo
+- See also wiki: https://en.wikipedia.org/wiki/Iris_flower_data_set  
+
 
 ```
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/loadDataSet.py > loaDataSet.py
