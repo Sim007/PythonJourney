@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# script evalPredictions
+# script makePredictions
 
 # make predictions
 from pandas import read_csv

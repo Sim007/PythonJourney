@@ -118,6 +118,13 @@ Steps in script:
 curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/evalSomeAlgorithms.py > evalSomeAlgorithms.py
 python3 evalSomeAlgorithms.py
 ```
----
+
+# Make Predictions
+We must choose an algorithm to use to make predictions.  
+
+```
+curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/makePredictions.py > makePredictions.py
+python3 makePredictions.py
+```
 
 
