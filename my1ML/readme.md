@@ -136,5 +136,10 @@ Want to try REPL with latest RC (official from the DockerHub)?
 docker container run -it --rm python:rc
 ```
 ### Python env for case
-- Note: for Docker everything must be lowercase
+Notes:
+- dockerfile
+- depencies in requirements.txt
+- for Docker everything must be lowercase
+- alpine does not work for packages needed
+- sklearn 1.0 does not match - name package must be: scikit-learn
 
