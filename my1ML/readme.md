@@ -141,5 +141,6 @@ Notes:
 - depencies in requirements.txt
 - for Docker everything must be lowercase
 - alpine does not work for packages needed
-- sklearn 1.0 does not match - name package must be: scikit-learn
+- sklearn 1.0 does not match - name package must be in requirement.txt pyth: scikit-learn
+- To solve: pip version + run pip version with root
 
