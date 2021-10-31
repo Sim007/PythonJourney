@@ -127,4 +127,13 @@ curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/makePredi
 python3 makePredictions.py
 ```
 
+## Docker
+
+Notes:
+- packages in requirements.txt
+- needed packages does not work with alpine
+- name of sklearn is different in requirements.txt
+- To do: pip version + user
+
+
 
