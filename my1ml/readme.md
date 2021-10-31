@@ -56,7 +56,7 @@ The examples needs the following dependecies:
 
 ### Installation
 - python 3.6 installed
-- made dir my1ml
+- made dir my1ML
 
 All completed scripts I copied to this repo, tweaked them for my purpose, so I can use them.  
 So I can copy the script on my machine and run the script.
@@ -127,14 +127,4 @@ curl https://raw.githubusercontent.com/Sim007/PythonJourney/main/my1ML/makePredi
 python3 makePredictions.py
 ```
 
-## Container / Docker
-Preq: having a Docker on the laptop  
-
-### Try REPL
-Want to try REPL with latest RC (official from the DockerHub)?
-```
-docker container run -it --rm python:rc
-```
-### Python env for case
-- Note: for Docker everything must be lowercase
 
