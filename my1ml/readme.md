@@ -135,5 +135,8 @@ Notes:
 - name of sklearn is different in requirements.txt
 - To do: pip version + user
 
+With baseimage: python:3.7-slim there are no visuals.
+
+
 
 
