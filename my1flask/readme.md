@@ -3,10 +3,16 @@
 ## Epic story
 As JS I want to learn flask in container environment so I can demonstrate it   
 
-https://flask.palletsprojects.com/en/2.0.x/quickstart/ 
+### hello.py
+hello world app
+
+### get.py
+
+
+
 
 Notes:
-- No control-C in terminal?
+- No control-C to stop docker container in VS code terminal?
 - How in production?
 
 
