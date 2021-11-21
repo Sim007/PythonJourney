@@ -14,8 +14,7 @@ Journey: bringing the correct ML to real customers
 - k8s 
 
 ### Voorbeeld containers
-- https://jupyter.org/
-- https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html
+See: https://github.com/Sim007/PythonJourney/tree/main/my1jupyter
 
 ```
 docker run -p 8888:8888 jupyter/scipy-notebook:notebook-6.4.5
