@@ -13,6 +13,9 @@ Journey: bringing the correct ML to real customers
 - Test container
 - k8s 
 
+### Voorrbeeld containers
+- https://jupyter.org/
+
 ### Resourses
 https://scikit-learn.org/
 https://www.kubeflow.org/  
