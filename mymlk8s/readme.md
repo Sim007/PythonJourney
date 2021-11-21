@@ -13,8 +13,14 @@ Journey: bringing the correct ML to real customers
 - Test container
 - k8s 
 
-### Voorrbeeld containers
+### Voorbeeld containers
 - https://jupyter.org/
+- https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html
+
+```
+docker run -p 8888:8888 jupyter/scipy-notebook:notebook-6.4.5
+```
+
 
 ### Resourses
 https://scikit-learn.org/
