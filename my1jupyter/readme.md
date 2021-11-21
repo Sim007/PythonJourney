@@ -1,4 +1,4 @@
-# MY first jupytor
+# My first jupytor
 
 ## Epic
 As JS I want to learn Jupyter in container so I can use and demonstrate it
