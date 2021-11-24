@@ -26,5 +26,7 @@ https://scikit-learn.org/
 https://www.kubeflow.org/  
 https://ml-ops.org/  
 https://data-science-academy3.teachable.com/courses/enrolled/795489  
-https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment  
+https://github.com/Azure/azureml-examples  
+
 
