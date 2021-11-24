@@ -22,6 +22,8 @@ docker run -p 8888:8888 jupyter/scipy-notebook:notebook-6.4.5
 
 
 ### Resourses
-https://scikit-learn.org/
+https://scikit-learn.org/  
 https://www.kubeflow.org/  
-https://ml-ops.org/
+https://ml-ops.org/  
+https://data-science-academy3.teachable.com/courses/enrolled/795489
+
