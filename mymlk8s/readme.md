@@ -33,6 +33,7 @@ https://data-science-academy3.teachable.com/courses/enrolled/795489
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment  
 https://github.com/Azure/azureml-examples  
 https://docs.microsoft.com/en-us/azure/machine-learning/?view=azure-ml-py  
-https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning  
+https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning 
+https://developers.google.com/machine-learning/crash-course
 
 
