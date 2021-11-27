@@ -9,9 +9,14 @@ Journey: bringing the correct ML to real customers
 
 ## Demo in AI en testen werkgroep
 - Waarom containers?
-- Voorbeeld container
+- Voorbeeld containers
+  - jupyter
 - Test container
+  - cypress
+- workflow
+  - train + production
 - k8s 
+  - kubeflow
 
 ### Voorbeeld containers
 See: https://github.com/Sim007/PythonJourney/tree/main/my1jupyter
@@ -21,7 +26,7 @@ docker run -p 8888:8888 jupyter/scipy-notebook:notebook-6.4.5
 ```
 
 
-### base images
+### Base images
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-prebuilt-docker-images-inference
 
 
