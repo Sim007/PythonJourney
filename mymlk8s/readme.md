@@ -49,19 +49,16 @@ The test container test contains:
 #### testcontainer with cypress
 ...
 
-## workflow in k8s CI/CD MLOPS
-  - train + production
-  - test
-  - kubeflow
-
-```
-docker run -p 8888:8888 jupyter/scipy-notebook:notebook-6.4.5
-```
-
+### datacontainer
+...
 
 ### Base images
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-prebuilt-docker-images-inference
 
+## workflow in k8s CI/CD MLOPS
+  - train + production
+  - test
+  - kubeflow
 
 ### Resources
 #### ML
