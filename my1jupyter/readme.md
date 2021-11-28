@@ -26,7 +26,7 @@ localhost:8888/?token=<>
 Start in notebook with new and python3
 
 ```
-docker container run -p 8888:8888 jupyter/scipy-notebook:notebook -e JUPYTER_ENABLE_LAB=yes
+docker container run -p 8888:8888 jupyter/scipy-notebook -e JUPYTER_ENABLE_LAB=yes
 ```
 
 ## Resources
