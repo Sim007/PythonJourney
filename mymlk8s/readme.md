@@ -75,5 +75,6 @@ https://github.com/Azure/azureml-examples
 https://docs.microsoft.com/en-us/azure/machine-learning/?view=azure-ml-py  
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning 
 https://martinfowler.com/articles/cd4ml.html
+https://developers.google.com/machine-learning/crash-course
 
 
