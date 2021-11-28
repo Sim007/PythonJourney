@@ -27,6 +27,7 @@ Start in notebook with new and python3
 
 ## Resources
 https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html
+https://github.com/jupyter/docker-stacks
 
 
 
