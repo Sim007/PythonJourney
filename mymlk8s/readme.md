@@ -76,5 +76,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/?view=azure-ml-py
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning 
 https://martinfowler.com/articles/cd4ml.html
 https://developers.google.com/machine-learning/crash-course
+https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f
+https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
+
 
 
