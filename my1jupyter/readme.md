@@ -3,6 +3,8 @@
 ## Epic
 As JS I want to learn Jupyter in container so I can use and demonstrate it
 
+Note: Jupyter-stacks in favour of Jupytor-notebook 
+
 ### try a container on local Docker
 https://jupyter-docker-stacks.readthedocs.io/en/latest/ 
 - https://jupyter.org/
@@ -23,7 +25,8 @@ localhost:8888/?token=<>
 ```
 Start in notebook with new and python3
 
-
+## Resources
+https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html
 
 
 
