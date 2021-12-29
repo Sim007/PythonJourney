@@ -79,5 +79,5 @@ https://developers.google.com/machine-learning/crash-course
 https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f
 https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 
-
+https://www.computable.nl/artikel/opinie/digital-transformation/7277584/1509029/investeren-in-ai-ml-is-geen-keuze-meer.html?utm_source=computable.nl&utm_medium=email&utm_campaign=dagelijkse_update&utm_content=topartikelen
 
