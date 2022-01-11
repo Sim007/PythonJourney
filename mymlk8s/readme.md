@@ -24,14 +24,18 @@ Journey: bringing the correct ML to real customers
 
 ## Why containers?
 
-## Voorbeeld containers
+## Example containers
+
+Need a Docker environment?
+https://labs.play-with-docker.com/
+
 ### Voorbeelden
 #### jupyter 
 Why a notebook?
 - easy start
 - code + documentation
 Why not: 
-- ML people smart, why not learn the essentials of prthon, software engineering and CI/CD?
+- ML people are smart, why not learn the essentials of python, software engineering and CI/CD?
 - Learn the real stuff in small steps
 see also: https://github.com/Sim007/PythonJourney/tree/main/my1jupyter 
 ```
