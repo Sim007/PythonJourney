@@ -19,6 +19,7 @@ Journey: bringing the correct ML to real customers
 - tracing & auditing
 - ML is a part of product
 - completeness versus time
+- what is tensor flow?
 
 ## Demo in AI en testen workinggroup
 
@@ -37,7 +38,7 @@ Why a notebook?
 Why not: 
 - ML people are smart, why not learn the essentials of python, software engineering and CI/CD?
 - Learn the real stuff in small steps
-see also: https://github.com/Sim007/PythonJourney/tree/main/my1jupyter 
+see also: https://github.com/Sim007/PythonJourney/tree/main/my1jupyter.  
 ```
 docker run -p 8888:8888 jupyter/scipy-notebook:notebook-6.4.5
 ```
@@ -70,6 +71,7 @@ https://scikit-learn.org/
 https://data-science-academy3.teachable.com/courses/enrolled/795489  
 https://developers.google.com/machine-learning/crash-course  
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment 
+https://www.kaggle.com
 
 #### CI/CD MLOPS
 https://www.phdata.io/blog/the-ultimate-mlops-guide-how-to-deploy-ml-models-to-production/
